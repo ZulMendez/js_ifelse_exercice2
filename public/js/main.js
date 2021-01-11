@@ -152,3 +152,22 @@ else if (ask1 == oui && ask3 == non && ask2 == oui) {
 }
 
 // if (ask1 == non || ask3 == oui || ask2 == non)
+
+// partie à vérifier
+
+// if (vacances == "oui" ) {
+
+//     if (riche == "non" || chat == "oui") {
+//         alert("Meme si vous voulez, vous ne pouvez pas partir");
+
+//     } else if (riche == "oui" && chat == "non") {
+//         alert("Tout est parfait, partez en vacances");
+
+//     } else if (riche == "oui" || chat == "non") {
+//         alert("InchAllah, t'es riche sinon tu reste a la dar a fou")
+//     }
+
+// } else {
+//     alert("Pas de problème, ne partez pas en vacances");
+// }
+
